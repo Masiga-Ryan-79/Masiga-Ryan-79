@@ -2,13 +2,12 @@
 
 > Frontend dev in the making — powered by HTML, CSS & strong coffee.
 
-![Masiga-Ryan-79's Stats](https://github-readme-stats.vercel.app/api?username=Masiga-Ryan-79&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## About me
 
 I'm a self-taught frontend developer who recently completed the fundamentals of HTML & CSS. I love turning design ideas into clean, semantic markup — and I can't write a single line of code without a cup of coffee nearby.
 
-Currently leveling up my skills, building projects, and figuring out what makes a great user experience.
+Currently levelling up my skills, building projects, and figuring out what makes a great user experience.
 
 
 
@@ -27,10 +26,10 @@ Currently leveling up my skills, building projects, and figuring out what makes 
 ## Projects
 
 ### ✦ Project One
-A short, punchy description of what this project does and what makes it cool.  
-Built with semantic HTML and custom CSS — no frameworks needed.  
-`HTML` `CSS`  
-[View Repo](#) · [Live Demo](#)
+Premium Restaurant Website Template with a Black & Gold Deluxe template.  
+Built with semantic HTML, Tailwind and CSS.  
+`HTML` `TailWind` `CSS`
+[View Repo](https://github.com/Masiga-Ryan-79/Restaurant-Project-RGM) · [Live Demo](restaurantprojrgm.netlify.app)
 
 
 
