@@ -29,7 +29,7 @@ Currently levelling up my skills, building projects, and figuring out what makes
 Premium Restaurant Website Template with a Black & Gold Deluxe template.  
 Built with semantic HTML, Tailwind and CSS.  
 `HTML` `TailWind` `CSS`
-[View Repo](https://github.com/Masiga-Ryan-79/Restaurant-Project-RGM) · [Live Demo](restaurantprojrgm.netlify.app)
+[View Repo](https://github.com/Masiga-Ryan-79/Restaurant-Project-RGM) · [Live Demo](https://restaurantprojrgm.netlify.app/)
 
 
 
